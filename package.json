@@ -16,6 +16,7 @@
         }
     ],
     "dependencies": {
+        "z-errors-client": "0.0.1"
     },
     "main": "z-errors-client-initializer.js"
 }
