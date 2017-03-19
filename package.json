@@ -1,7 +1,7 @@
 {
     "name": "z-errors-client-initializer",
     "description": "Z Errors Client Initializer",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": {
         "name": "Giorgi Maisuradze"
     },
@@ -16,7 +16,7 @@
         }
     ],
     "dependencies": {
-        "z-errors-client": "0.0.1"
+        "z-errors-client": "0.0.2"
     },
     "main": "z-errors-client-initializer.js"
 }
